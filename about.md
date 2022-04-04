@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/me/bom.png
+image: /assets/img/me/bom.jpg
 description: >
   사이버보안 공부를 하고있는 대학생입니다. 
 hide_description: true
