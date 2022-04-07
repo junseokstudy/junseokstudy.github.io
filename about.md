@@ -21,8 +21,8 @@ hide_description: true
 <center>Seoul, Republic of Korea</center>
 ## Personal Data
 ---
-> 1999.08.31 대한민국,서울시, 출생> 연락처: wp06025@naver.com
-> Github : [https://github.com/khw11044](https://github.com/khw11044) ## Education
+> 1999.08.31 대한민국,서울시,신림동 출생> 연락처: wp06025@naver.com
+> Github : [https://github.com/junseokstudy](https://github.com/junseokstudy) ## Education
 ---
 > Mar.2018 ~ 건양대학교
 >
