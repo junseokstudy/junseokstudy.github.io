@@ -49,11 +49,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /About/
-  - title:             Example1
-    url:               /Example1/
+    url:               /about/
+    title:             Example1
+    url:               /example1/
   - title:             Example2
-    url:               /Example2/
+    url:               /example2/
   - title:             SubCat
     url:               /subcat/
     submenu:
