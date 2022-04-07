@@ -11,41 +11,23 @@ hide_description: true
 
 <!--author-->
 
-## Hydejack
-
-A boutique Jekyll theme for hackers, nerds, and academics.  
-{:.lead}
-
-1. this list will be replaced by the toc
-{:toc .large-only}
-
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
-
-Hydejack's cover page on a variety of screen sizes.
-{:.figcaption}
-
-
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
-
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
-
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
-{:.lead}
-
-
-## A Personal Site That Won't Disappear
-
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
-
-Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
-
-## Download
-
-{% include table.md %}
-
-
-## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+***
+<center>
+<span style="font-size:170%;font-weight:bold"> 황준석
+</span>
+</center>
+<center>MAJOR : Cyber Security</center>
+<center>Konyang University</center>
+<center>Seoul, Republic of Korea</center>
+## Personal Data
+---
+> 1999.08.31 대한민국,서울시, 출생> 연락처: wp06025@naver.com
+> Github : [https://github.com/khw11044](https://github.com/khw11044) ## Education
+---
+> Mar.2018 ~ 건양대학교
+>
+> 사이버보안공학과 (Cyber Security)
+## Research Interest
 
 <!--posts-->
 
