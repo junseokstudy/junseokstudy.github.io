@@ -11,24 +11,6 @@ hide_description: true
 
 <!--author-->
 
-***
-<center>
-<span style="font-size:170%;font-weight:bold"> 황준석
-</span>
-</center>
-<center>MAJOR : Cyber Security</center>
-<center>Konyang University</center>
-<center>Seoul, Republic of Korea</center>
-## Personal Data
----
-> 1999.08.31 대한민국 서울시 신림동 출생> 연락처: wp06025@naver.com
-> Github : [https://github.com/khw11044](https://github.com/khw11044) ## Education
----
-> Mar.2018 ~ 건양대학교
->
-> 사이버보안공학과 (Cyber Security)
-## Research Interest
-
 ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
